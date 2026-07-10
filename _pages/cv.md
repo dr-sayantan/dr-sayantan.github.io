@@ -1,17 +1,12 @@
 ---
-layout: archive
-title: "CV"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-
-<a href="/files/Sayantan_RESUME.pdf" target="/files/Sayantan_RESUME.pdf" class="btn btn--primary">Download CV (PDF)</a>
-
-![Diagram](/images/arrival.png)
-
-*Last updated: [08/03/2025]*
-
+title: CV
+nav: true
+nav_order: 5
+cv_pdf: /assets/pdf/example_pdf.pdf # you can also use external links here
+cv_format: rendercv # options: rendercv, jsonresume
+description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+toc:
+  sidebar: left
 ---
