@@ -2,33 +2,54 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://iddp.gwu.edu/'>Institute of Data, Democracy & Politics</a>. The George Washington University.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_new.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Washington, D.C.</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! I am a Postdoctoral Researcher in the [Institute of Data, Democracy & Politics](https://iddp.gwu.edu/) at [The George Washington University](https://www.gwu.edu/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I completed my Ph.D. at the University of Arkansas at Little Rock. My dissertation examined the contributing factors of successful information campaigns and the socio-computational modeling of collective action.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before starting my Ph.D., I worked as a Software Developer and Data Engineer for 6 years, including roles at Cognizant and Accenture. I hold a Bachelor's degree in Information Technology from the University of Burdwan, India.
+
+My research explores the dynamics of collective action, the design and impact of information campaigns, and the role of social computing in shaping public discourse. I am especially interested in how these dynamics play out in political and electoral contexts — how information campaigns shape voter perception, how coordinated online activity influences electoral discourse, and how platforms moderate (or fail to moderate) political content during high-stakes moments like elections. I am particularly interested in how digital platforms facilitate or hinder group coordination, mobilization, and narrative formation more broadly. Drawing from computational social science, human-computer interaction, and communication studies, my work combines quantitative and qualitative methods to understand how people organize, engage, and influence one another in networked environments.
+
+<div class="row">
+<div class="col-sm-6">
+
+## Interests
+- Collective Action
+- Information Campaigns
+- Political & Electoral Discourse
+- Computational Social Science
+
+</div>
+<div class="col-sm-6">
+
+## Education
+**Ph.D. in Information Science**
+<span style="color: gray;">University of Arkansas at Little Rock</span>
+
+**M.S. in Information Science**
+<span style="color: gray;">University of Arkansas at Little Rock</span>
+
+**B.Tech. in Information Technology**, [YEAR]
+<span style="color: gray;">University of Burdwan</span>
+
+</div>
+</div>
