@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher, <a href='https://www.gwu.edu/'>The George Was
 
 profile:
   align: right
-  image: prof_pic_new1.png
+  image: profile_pic_new1.png
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
