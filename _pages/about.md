@@ -29,9 +29,8 @@ My research explores the dynamics of collective action, the design and impact of
       <li>Collective Action</li>
       <li>Information Campaigns</li>
       <li>Political &amp; Electoral Discourse</li>
-      <li>Social Computing</li>
       <li>Computational Social Science</li>
-      <li>Socio-cognitive Security</li>
+      <li>Natural Language Processing</li>
     </ul>
   </div>
   <div class="col-md-6">
@@ -39,7 +38,7 @@ My research explores the dynamics of collective action, the design and impact of
     <ul style="list-style: none; padding-left: 0;">
       <li>Ph.D. in Information Science<br><span style="color: gray;">University of Arkansas at Little Rock</span></li>
       <li>M.S. in Information Science<br><span style="color: gray;">University of Arkansas at Little Rock</span></li>
-      <li>B.Tech. in Information Technology, [YEAR]<br><span style="color: gray;">University of Burdwan</span></li>
+      <li>B.Tech. in Information Technology<br><span style="color: gray;">University of Burdwan</span></li>
     </ul>
   </div>
 </div>
